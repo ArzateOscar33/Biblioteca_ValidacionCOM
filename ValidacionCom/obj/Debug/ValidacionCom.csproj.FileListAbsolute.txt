@@ -1,0 +1,6 @@
+C:\Users\loren\source\repos\ValidacionCom\ValidacionCom\bin\Debug\ValidacionCom.dll
+C:\Users\loren\source\repos\ValidacionCom\ValidacionCom\bin\Debug\ValidacionCom.pdb
+C:\Users\loren\source\repos\ValidacionCom\ValidacionCom\obj\Debug\ValidacionCom.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\ValidacionCom\ValidacionCom\obj\Debug\ValidacionCom.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\ValidacionCom\ValidacionCom\obj\Debug\ValidacionCom.dll
+C:\Users\loren\source\repos\ValidacionCom\ValidacionCom\obj\Debug\ValidacionCom.pdb
